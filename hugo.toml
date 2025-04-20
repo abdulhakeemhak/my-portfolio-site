@@ -1,0 +1,5 @@
+baseURL = 'https://abdulhakeemhak.github.io/'
+languageCode = 'en-us'
+title = 'Hakeem Portfolio'
+theme = 'ananke'
+ 
